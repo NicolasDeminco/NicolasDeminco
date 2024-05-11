@@ -1,16 +1,19 @@
-### Hi there 👋
+### ![image](https://github.com/NicolasDeminco/NicolasDeminco/assets/168875498/dc73ce5a-bad2-4701-b70c-9976cc498f55)
 
-<!--
-**NicolasDeminco/NicolasDeminco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Meu nome é Nicolas` 
+
+
+
+- Estou estudando na [Alura](https://www.alura.com.br/)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+
+### ![image](https://github.com/NicolasDeminco/NicolasDeminco/assets/168875498/24e69d6f-b9f8-4128-859d-64a789f12aec) 📫
+
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎  ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎‎ ‎ ‎ ‎  ‎ ‎ ‎  nicolasdeminco10@gmail.com 📧
+
+![](https://media.tenor.com/zKFhQIIppYYAAAAi/rick-rick-and-morty.gif)
+
