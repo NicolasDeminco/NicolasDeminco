@@ -15,5 +15,5 @@
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎  ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎‎ ‎ ‎ ‎  ‎ ‎ ‎  nicolasdeminco10@gmail.com 📧
 
-![](https://media.tenor.com/zKFhQIIppYYAAAAi/rick-rick-and-morty.gif)
+‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ![](https://media.tenor.com/zKFhQIIppYYAAAAi/rick-rick-and-morty.gif)
 
