@@ -10,12 +10,10 @@
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
+`Projetos:`  https://nicolasdeminco.github.io/js-escrevenome/
 
 ### ![image](https://github.com/NicolasDeminco/NicolasDeminco/assets/168875498/24e69d6f-b9f8-4128-859d-64a789f12aec) 📫
 
 ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎‎ ‎‎ ‎ ‎  ‎ ‎‎ ‎ ‎‎     ‎‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎    ‎‎‎ ‎ ‎  ‎ ‎ ‎  nicolasdeminco10@gmail.com 📧
 
 ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎  ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ![](https://media.tenor.com/zKFhQIIppYYAAAAi/rick-rick-and-morty.gif)
-
-
-`Projetos:`  https://nicolasdeminco.github.io/js-escrevenome/
